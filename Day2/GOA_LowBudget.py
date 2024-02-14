@@ -1,0 +1,3 @@
+print ("ras vfiqrob goaze me did imedebs vamyareb goaze da mis dapirebebze mjera da yoveltvis mjeroda goa mexmareba gavicno adamianebi gavichino megobrebi viswavlo viyo mxiarulad da rac mtavaria madzlevs did motivacias me mjera goasi da shen ras elodebi?(Shemodi goashi iyavi Chadi!!)")
+
+print ("gavicani vemegobrebi: dato tyeshelashvili best goa student dato janezashvili nu armaq iseti urtiertoba rogoric datostan magram minda vemegobro gio gagnidze adamiani romelic mexmareba da rogorc did dzmas ise vuyureb luka tskhvaradze martla chemi dzmaa is maswavlida pythons da mexmareboda maswavla saqmis siyvaruli da momca motivacia madloba mas <3")
